@@ -1,0 +1,5 @@
+open the folder bacendcal in visualcode 
+goto terminal and goto backendcal directory
+then type command python manage.py runserver
+open the browser and type http://127.0.0.1:8000/
+thank you!
